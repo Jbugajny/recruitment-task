@@ -1,0 +1,24 @@
+{
+  "name": "recruitment-task",
+  "version": "1.0.0",
+  "description": "recruitment task",
+  "main": "index.js",
+  "scripts": {
+    "kakunin": "cross-env NODE_ENV=prod kakunin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbugajny/recruitment-task.git"
+  },
+  "author": "Jacek Bugajny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbugajny/recruitment-task/issues"
+  },
+  "homepage": "https://github.com/Jbugajny/recruitment-task#readme",
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "cucumber": "^5.1.0",
+    "kakunin": "^3.0.1"
+  }
+}
